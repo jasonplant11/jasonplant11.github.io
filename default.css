@@ -1,0 +1,65 @@
+
+body{background-color: grey;
+font-family: 'Raleway', sans-serif;
+font: 15px;}
+
+h2{color:whitesmoke;
+font-size: 18px}
+
+h3{color:whitesmoke;
+font-size: 30px;}
+
+a:link{color: black;}
+
+a:visited{color: navy;}
+
+#background {height: 1200px;
+width: 2000px;
+position: absolute; top: 0px; left: 0px;}
+
+#menubar {background-color: whitesmoke;
+height: 40px;
+width: 6000px;
+position: absolute; top:0px; left:0px }
+
+#logo {background-color: whitesmoke;
+height: 40px;
+width: 300px;
+position: absolute; top: 0px; left: 1100px;}
+
+#header {background-color: transparent;
+height: 150px;
+width: 1100px;
+position: absolute; top: 100px;left: 200px}
+
+#SOTU {background-color: transparent;
+height: 40px;
+width: 520px;
+position: absolute; top: 175px; left: 450px
+}
+
+#Insulinprices {background-color: transparent;
+height: 150px;
+width: 400px;
+position: absolute; top: 375px; left: 200px
+}
+
+#Pricepic {background-color: transparent;
+height: 300px;
+Width: 300px;
+position: absolute; top: 300px; left: 750px}
+
+#statepic {background-color: transparent;
+height: 300px;
+width: 500px;
+position: absolute; top: 650px; left: 165px}
+
+#sixteenstates {background-color: transparent; 
+height: 60px;
+width: 175px;
+position: absolute; top: 690px; left: 830px}
+
+#sixteentext {background-color: transparent;
+height: 300px;
+width: 400px;
+position: absolute; top: 740px; left: 725px}
